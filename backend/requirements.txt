@@ -1,0 +1,14 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+SQLAlchemy==2.0.36
+pydantic==2.10.4
+python-multipart==0.0.20
+pandas==2.2.3
+openpyxl==3.1.5
+opencv-python==4.10.0.84
+pillow==11.0.0
+pyautogui==0.9.54
+mss==10.0.0
+# Optional OCR/browser integrations:
+# pytesseract==0.3.13
+# playwright==1.49.1
